@@ -1,0 +1,2 @@
+module StatiscPagesHelper
+end
